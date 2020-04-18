@@ -5,7 +5,7 @@ Cron to send hourly cat fact emails using AWS Amplify.
 ## Deploy
 - Setup a SMTP server on a platform such as SendGrid or Mailgun.
 - Click the button below to deploy.  
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/mfarix/hourly-cat-fact/tree/master/amplify)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/mfarix/hourly-cat-fact/tree/master)
 
 ## Environment Variables
 - Set environment variables in a `.env` file for local development.
