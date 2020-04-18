@@ -1,0 +1,9 @@
+{
+	"function": {
+		"catFact": {
+			"build": true,
+			"providerPlugin": "awscloudformation",
+			"service": "Lambda"
+		}
+	}
+}

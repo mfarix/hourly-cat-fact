@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hourly-cat-fact-dev-161406-authRole",
+            "UnauthRoleArn": "arn:aws:iam::512200996832:role/amplify-hourly-cat-fact-dev-161406-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::512200996832:role/amplify-hourly-cat-fact-dev-161406-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-hourly-cat-fact-dev-161406-deployment",
+            "UnauthRoleName": "amplify-hourly-cat-fact-dev-161406-unauthRole",
+            "StackName": "amplify-hourly-cat-fact-dev-161406",
+            "StackId": "arn:aws:cloudformation:ap-south-1:512200996832:stack/amplify-hourly-cat-fact-dev-161406/94650f10-814c-11ea-a3f2-027843ee7a02",
+            "AmplifyAppId": "d2ifl310hn07hl"
+        }
+    }
+}
