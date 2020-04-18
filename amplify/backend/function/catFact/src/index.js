@@ -4,14 +4,8 @@ const fetch = require('node-fetch')
 const dotenv = require('dotenv');
 dotenv.config();
 
-
-
 exports.handler = async (event, context, callback) => {
     // setup nodemailer
-    // console.log(`${process.env.MAIL_USERNAME}`)
-    // console.log(`${process.env.MAIL_PASSWORD}`);
-    // console.log(`${process.env.MAIL_FROM}`);
-    // console.log(`${process.env.MAIL_TO}`);
     const transporter = nodemailer.createTransport({
         host: "smtp.sendgrid.net",
         port: 587,
